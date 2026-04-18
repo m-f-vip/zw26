@@ -21,8 +21,8 @@
 Traditional large-scale model testing is very complex and tedious, and requires a huge amount of computing power that ordinary people cannot participate in.
 
 
-zw多模态图灵测试，是行业第一个针对大众的大模型测试方案，采用“傻瓜式”设计，用户只需按资料，辅助输入十余字的提示词，即可复现主要的测试结果。
-ZW multimodal Turing test is the industry's first large-scale model testing solution for the general public. It adopts a "foolproof" design, and users only need to input more than ten words of prompts according to the data to reproduce the main test results.
+zw多模态图灵测试，是行业第一个针对大众的大模型测试方案，采用“傻瓜式”设计，用户只需按资料，输入十余字的提示词，即可复现主要的测试结果。
+ZW multimodal Turing test is the industry's first large-scale model testing solution for the general public. It adopts a "foolproof" design, and users only need to input more than ten words of prompts ，to the data to reproduce the main test results.
 
 zw多模态图灵测试2.0，包括：文本测试+图像测试两个部分，对主流大模型，特别是多模态模型的能力进行了全面的测试与评估，以下是详细的分析与评分结果。
 ZW Multimodal Turing Test 2.0 includes two parts: text testing and image testing. It comprehensively tests and evaluates the capabilities of mainstream large models, especially multimodal models. The following is a detailed analysis and scoring result.

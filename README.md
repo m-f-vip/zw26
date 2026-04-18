@@ -1,5 +1,4 @@
-## zw多模态图灵测试2.0 
-ZW Multimodal Turing Test 2.0
+## zw多模态图灵测试2.0 ZW Multimodal Turing Test 2.0
 
 - zw多模态图灵测试2.0，在原来的多模态图像分割基础上，新增文本逻辑推理测试。
 -ZW Multimodal Turing Test 2.0 adds a text logic inference test on the basis of the original multimodal image segmentation.

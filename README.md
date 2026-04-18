@@ -7,8 +7,8 @@ ZW Multimodal Turing Test 2.0
 - 其中，文本测试共26个模型&算法,图像测试共17个模型&算法。
 -Among them, there are 26 models&algorithms for text testing and 17 models&algorithms for image testing.
 
-- 在所有的测试大众，zw-lce逻辑引擎是唯一满分的，完胜全球各大主流模型，
-- -Among all the testing masses, the ZW-LCE logic engine is the only one with a perfect score, surpassing major mainstream models around the world,
+- 在所有的测试当中，zw-lce逻辑引擎是唯一满分的，完胜全球各大主流模型，
+- -Among all the testing , the ZW-LCE logic engine is the only one with a perfect score, surpassing major mainstream models around the world,
   
 - 包括including：gpt-5，grok-4，GPT-4o，DeepSeek-V4，字节豆包，Kimi K2.5，智谱 GLM-5，Llama 4，MiniMax M2.5，Gemini 3.1 Pro，Claude 4 Opus阿里千问 Qwen3.6等。
 

@@ -1,9 +1,9 @@
-## zw多模态图灵测试2.0 ZW Multimodal Turing Test 2.0
+## zw多模态图灵测试2.x ZW Multimodal Turing Test 2.x
 
-- zw多模态图灵测试2.0，在原来的多模态图像分割基础上，新增文本逻辑推理测试。
--ZW Multimodal Turing Test 2.0 adds a text logic inference test on the basis of the original multimodal image segmentation.
+- zw多模态图灵测试2.x，在原来的多模态图像分割基础上，新增文本逻辑推理测试。
+-ZW Multimodal Turing Test 2.x adds a text logic inference test on the basis of the original multimodal image segmentation.
 
-- 其中，文本测试共26个模型&算法,图像测试共17个模型&算法。
+- 其中，文本测试共26个,图像测试共17个模型&算法。
 -Among them, there are 26 models&algorithms for text testing and 17 models&algorithms for image testing.
 
 - 在所有的测试当中，zw-lce逻辑引擎是唯一满分的，完胜全球各大主流模型，
@@ -13,9 +13,8 @@
 
 
 ### 【参见See】
-- [《zw多模态图灵测试ZW Multimodal Turing Test2.0》](https://mp.weixin.qq.com/s/FE-Q_8_LcQwGq2xlTrSg_Q)
--[ZW Multimodal Turing Test 2.0]（ https://mp.weixin.qq.com/s/FE-Q_8_LcQwGq2xlTrSg_Q )
-- or 下载 download 《zw多模态图灵测试2.0.pdf》(ZW Multimodal Turing Test)
+- [《zw多模态图灵测试ZW Multimodal Turing Test2.x》](https://mp.weixin.qq.com/s/6lu00VTHytkpyeSgMdHMWg)
+- or 下载 download 《ZW_Multimodal_Turing_Test多模态图灵测试2.x.pdf》
 - 
 传统大模型测试，非常复杂繁琐，而且需要庞大算力，普通人无法参与。
 Traditional large-scale model testing is very complex and tedious, and requires a huge amount of computing power that ordinary people cannot participate in.

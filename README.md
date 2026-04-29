@@ -1,6 +1,6 @@
-## zw多模态图灵测试2.x ZW Multimodal Turing Test 2.x
+## zw多模态图灵测试3.x ZW Multimodal Turing Test 3.x
 
-- zw多模态图灵测试2.x，在原来的多模态图像分割基础上，新增文本逻辑推理测试。
+- zw多模态图灵测试3.x，在原来的多模态图像分割基础上，新增文本逻辑推理测试。
 -ZW Multimodal Turing Test 2.x adds a text logic inference test on the basis of the original multimodal image segmentation.
 
 - 其中，文本测试共26个,图像测试共17个模型&算法。
@@ -14,7 +14,7 @@
 
 ### 【参见See】
 - [《zw多模态图灵测试ZW Multimodal Turing Test2.x》](https://mp.weixin.qq.com/s/6lu00VTHytkpyeSgMdHMWg)
-- or 下载 download 《ZW_Multimodal_Turing_Test多模态图灵测试2.x.pdf》
+- or 下载 download 《ZW_Multimodal_Turing_Test多模态图灵测试3.x.pdf》
 - 
 传统大模型测试，非常复杂繁琐，而且需要庞大算力，普通人无法参与。
 Traditional large-scale model testing is very complex and tedious, and requires a huge amount of computing power that ordinary people cannot participate in.

@@ -13,7 +13,7 @@
 
 
 ### 【参见See】
-- [《zw多模态图灵测试ZW Multimodal Turing Test2.x》](https://mp.weixin.qq.com/s/6lu00VTHytkpyeSgMdHMWg)
+- [《zw多模态图灵测试ZW Multimodal Turing Test2.x》](https://mp.weixin.qq.com/s/L8e3JcrleySiJvj1t4s-2Q)
 - or 下载 download 《ZW_Multimodal_Turing_Test多模态图灵测试3.x.pdf》
 - 
 传统大模型测试，非常复杂繁琐，而且需要庞大算力，普通人无法参与。
@@ -23,8 +23,8 @@ Traditional large-scale model testing is very complex and tedious, and requires 
 zw多模态图灵测试，是行业第一个针对大众的大模型测试方案，采用“傻瓜式”设计，用户只需按资料，输入十余字的提示词，即可复现主要的测试结果。
 ZW multimodal Turing test is the industry's first large-scale model testing solution for the general public. It adopts a "foolproof" design, and users only need to input more than ten words of prompts ，to the data to reproduce the main test results.
 
-zw多模态图灵测试2.0，包括：文本测试+图像测试两个部分，对主流大模型，特别是多模态模型的能力进行了全面的测试与评估，以下是详细的分析与评分结果。
-ZW Multimodal Turing Test 2.0 includes two parts: text testing and image testing. It comprehensively tests and evaluates the capabilities of mainstream large models, especially multimodal models. The following is a detailed analysis and scoring result.
+zw多模态图灵测试3.x，包括：文本测试+图像测试两个部分，对主流大模型，特别是多模态模型的能力进行了全面的测试与评估，以下是详细的分析与评分结果。
+ZW Multimodal Turing Test 3.x includes two parts: text testing and image testing. It comprehensively tests and evaluates the capabilities of mainstream large models, especially multimodal models. The following is a detailed analysis and scoring result.
 
 - 	文本测试是：文本逻辑推理测试，测试提示词，统一用：“用一个字归纳大藏经”
 -Text testing is: Text logical reasoning test, testing prompt words, uniformly using: "Summarize the Tripitaka with one word"

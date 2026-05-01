@@ -10,6 +10,8 @@
 - -Among all the testing , the ZW-LCE logic engine is the only one with a perfect score, surpassing major mainstream models around the world,
   
 - 包括including：gpt-5，grok-4，GPT-4o，DeepSeek-V4，字节豆包，Kimi K2.5，智谱 GLM-5，Llama 4，MiniMax M2.5，Gemini 3.1 Pro，Claude 4 Opus阿里千问 Qwen3.6等。
+
+  
 ![测试排名](./xdoc/zw31mtt20.jpg)
 ![二值图像分割](zmtt31pk20.jpg)
 

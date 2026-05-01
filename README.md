@@ -54,4 +54,4 @@ ZW Multimodal Turing Test 3.x includes two parts: text testing and image testing
 - 公众号：智王AI  (zwailab)
 - Official account: Zhiwang AI (zwailab)
 
-![公众号：智王AI  (zwailab)](xdoc/zw26pub640.jpg)
+![公众号：智王AI(zwailab)](./xdoc/zw26pub640.jpg)

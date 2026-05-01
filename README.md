@@ -16,7 +16,8 @@
 ### 【参见See】
 - [《zw多模态图灵测试ZW Multimodal Turing Test3.x》](https://mp.weixin.qq.com/s/L8e3JcrleySiJvj1t4s-2Q)
 - or 下载 download 《ZW_Multimodal_Turing_Test多模态图灵测试3.x.pdf》
-- 
+   
+
 传统大模型测试，非常复杂繁琐，而且需要庞大算力，普通人无法参与。
 Traditional large-scale model testing is very complex and tedious, and requires a huge amount of computing power that ordinary people cannot participate in.
 

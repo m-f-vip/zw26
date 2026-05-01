@@ -55,3 +55,34 @@ ZW Multimodal Turing Test 3.x includes two parts: text testing and image testing
 - Official account: Zhiwang AI (zwailab)
 
 ![公众号：智王AI(zwailab)](./xdoc/zw26pub640.jpg)
+
+##【合作倡议】
+- 目前，我们已经完成了核心技术的验证，为了加速技术的产业化落地，我们面向全球发出合作倡议，诚邀各领域的合作伙伴：
+- At present, we have completed the verification of our core technology. In order to accelerate the industrialization of our technology, we have launched a global cooperation initiative and sincerely invite partners from various fields to:
+
+- AI 金融量化领域：诚邀量化机构、金融科技公司提供金融市场数据，共同推进 LCE 拓扑推理技术在量化策略、市场预测等场景的落地应用
+- AI financial quantification field: We sincerely invite quantitative institutions and fintech companies to provide financial market data and jointly promote the landing and application of LCE topology reasoning technology in quantitative strategies, market forecasting and other scenarios
+  
+-	医学影像领域：诚邀医学机构、医疗 AI 团队提供医学影像样本，共同完成模型的微调与临床验证
+- In the field of medical imaging, we sincerely invite medical institutions and medical AI teams to provide medical imaging samples and jointly complete the fine-tuning and clinical validation of models
+
+-  卫星遥感领域：诚邀遥感机构、测绘团队提供遥感数据，共同推进地物分割的落地应用
+- In the field of satellite remote sensing, we sincerely invite remote sensing institutions and surveying teams to provide remote sensing data and jointly promote the practical application of land segmentation
+
+-  无人驾驶领域：诚邀自动驾驶团队提供感知数据，共同优化障碍物分割的能力
+- In the field of autonomous driving, we sincerely invite autonomous driving teams to provide perception data and jointly optimize the ability of obstacle segmentation
+ 
+-	学术研究领域：诚邀高校与研究机构合作，共同推进拓扑推理大模型的学术研究
+- Academic research field: We sincerely invite universities and research institutions to cooperate and jointly promote academic research on topological reasoning models
+ 
+我们将开放核心技术的接口与预训练模型，合作伙伴仅需提供领域数据，即可快速完成技术的落地验证，共同推动通用精细分割技术的革命性突破。
+We will open up the interface of core technologies and pre trained models, and partners only need to provide domain data to quickly complete the implementation verification of the technology, jointly promoting the revolutionary breakthrough of general fine segmentation technology.
+
+
+发布机构：智王 AI 研究团队 zw ai lab
+Publisher: Zhiwang AI Research Team ZW AI Lab
+Mail： hhq54@163.com
+公众号Official account：智王 AI （zwailab）
+Github Verification Tool验证工具：https://github.com/m-f-vip/zw26/
+
+

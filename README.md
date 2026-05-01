@@ -75,14 +75,14 @@ ZW Multimodal Turing Test 3.x includes two parts: text testing and image testing
 -	学术研究领域：诚邀高校与研究机构合作，共同推进拓扑推理大模型的学术研究
 - Academic research field: We sincerely invite universities and research institutions to cooperate and jointly promote academic research on topological reasoning models
  
-我们将开放核心技术的接口与预训练模型，合作伙伴仅需提供领域数据，即可快速完成技术的落地验证，共同推动通用精细分割技术的革命性突破。
-We will open up the interface of core technologies and pre trained models, and partners only need to provide domain data to quickly complete the implementation verification of the technology, jointly promoting the revolutionary breakthrough of general fine segmentation technology.
+- 我们将开放核心技术的接口与预训练模型，合作伙伴仅需提供领域数据，即可快速完成技术的落地验证，共同推动通用精细分割技术的革命性突破。
+- We will open up the interface of core technologies and pre trained models, and partners only need to provide domain data to quickly complete the implementation verification of the technology, jointly promoting the revolutionary breakthrough of general fine segmentation technology.
 
 
-发布机构：智王 AI 研究团队 zw ai lab
-Publisher: Zhiwang AI Research Team ZW AI Lab
-Mail： hhq54@163.com
-公众号Official account：智王 AI （zwailab）
-Github Verification Tool验证工具：https://github.com/m-f-vip/zw26/
+- 发布机构：智王 AI 研究团队 zw ai lab
+- Publisher: Zhiwang AI Research Team ZW AI Lab
+- Mail： hhq54@163.com
+- 公众号Official account：智王 AI （zwailab）
+- Github Verification Tool验证工具：https://github.com/m-f-vip/zw26/
 
 

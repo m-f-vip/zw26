@@ -15,6 +15,9 @@
 ![测试排名](./xdoc/zw31mtt20.jpg)
 ![二值图像分割](zmtt31pk20.jpg)
 
+（测试结果当中：zw 算法的反白部分不是 bug，是笔画交叉部分的正常处理效果）
+(In the test results, the whitening part of the ZW algorithm is not a bug, but the normal processing effect of stroke intersection.)
+
 ### 【参见See】
 - [《zw多模态图灵测试ZW Multimodal Turing Test3.x》](https://mp.weixin.qq.com/s/L8e3JcrleySiJvj1t4s-2Q)
 - or 下载 download 《ZW_Multimodal_Turing_Test多模态图灵测试3.x.pdf》

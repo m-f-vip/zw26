@@ -11,9 +11,10 @@
   
 - 包括including：gpt-5，grok-4，GPT-4o，DeepSeek-V4，字节豆包，Kimi K2.5，智谱 GLM-5，Llama 4，MiniMax M2.5，Gemini 3.1 Pro，Claude 4 Opus阿里千问 Qwen3.6等。
 
-
+![#1](zmtt31pk20.jpg)
+![#2](./zmtt31pk20.jpg)
 ### 【参见See】
-- [《zw多模态图灵测试ZW Multimodal Turing Test2.x》](https://mp.weixin.qq.com/s/L8e3JcrleySiJvj1t4s-2Q)
+- [《zw多模态图灵测试ZW Multimodal Turing Test3.x》](https://mp.weixin.qq.com/s/L8e3JcrleySiJvj1t4s-2Q)
 - or 下载 download 《ZW_Multimodal_Turing_Test多模态图灵测试3.x.pdf》
 - 
 传统大模型测试，非常复杂繁琐，而且需要庞大算力，普通人无法参与。

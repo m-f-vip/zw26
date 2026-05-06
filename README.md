@@ -24,7 +24,9 @@
 - or 下载 download 《ZW_Multimodal_Turing_Test多模态图灵测试3.x.pdf》
 - 
 - [Why is Chinese character stroke segmentation called the "AI holy grail"](https://mp.weixin.qq.com/s/mEOnkgRYAdxhtSbAMqMCHA)
-- [《汉字笔画分割为什么被称为“ai圣杯”.pdf》](./汉字笔画分割为什么被称为“ai圣杯”.pdf)
+- ["AI holy grail#2"](https://mp.weixin.qq.com/s/1YX8rt6uOjr4wZI8jkJRPw)
+- [《汉字笔画分割为什么被称为“ai圣杯”》](./汉字笔画分割为什么被称为“ai圣杯”.pdf)
+- [十年前的中国技术，为啥成了AI大模型天花板&“圣杯”》](https://mp.weixin.qq.com/s/1YX8rt6uOjr4wZI8jkJRPw)
    
 ![二值图像分割](./xdoc/zwai-hcup.jpg)
 
